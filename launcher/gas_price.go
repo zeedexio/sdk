@@ -24,6 +24,7 @@ type GasStationPriceDeciderWithFallback struct {
 }
 
 func (s GasStationPriceDeciderWithFallback) GasPriceInWei() decimal.Decimal {
+	// url := "https://ethgasstation.info/json/ethgasAPI.json"
 	url := "http://bscgasstation.com/json/bscgasAPI"
 	resp, err := http.Get(url)
 	if err != nil {
