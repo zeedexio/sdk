@@ -3,8 +3,8 @@ package websocket
 import (
 	"context"
 	"encoding/json"
-	"github.com/zeedexio/zeedex-sdk-backend/common"
-	"github.com/zeedexio/zeedex-sdk-backend/utils"
+	"github.com/zeedexio/zeedex-bsc-sdk-backend/common"
+	"github.com/zeedexio/zeedex-bsc-sdk-backend/utils"
 )
 
 // StartConsumer initializes a queue instance and ready events from it

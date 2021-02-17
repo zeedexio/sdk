@@ -1,6 +1,6 @@
 package websocket
 
-import "github.com/zeedexio/zeedex-sdk-backend/common"
+import "github.com/zeedexio/zeedex-bsc-sdk-backend/common"
 
 type IChannel interface {
 	GetID() string

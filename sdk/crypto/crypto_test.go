@@ -1,7 +1,7 @@
 package crypto
 
 import (
-	"github.com/zeedexio/zeedex-sdk-backend/utils"
+	"github.com/zeedexio/zeedex-bsc-sdk-backend/utils"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

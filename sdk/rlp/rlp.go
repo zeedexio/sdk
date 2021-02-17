@@ -4,7 +4,7 @@ package rlp
 
 import (
 	"bytes"
-	"github.com/zeedexio/zeedex-sdk-backend/utils"
+	"github.com/zeedexio/zeedex-bsc-sdk-backend/utils"
 )
 
 func Encode(items interface{}) []byte {

@@ -1,4 +1,4 @@
-module github.com/zeedexio/zeedex-sdk-backend
+module github.com/zeedexio/zeedex-bsc-sdk-backend
 
 require (
 	github.com/btcsuite/btcd v0.0.0-20190115013929-ed77733ec07d

@@ -3,7 +3,7 @@ package types
 import (
 	"math/big"
 
-	"github.com/zeedexio/zeedex-sdk-backend/utils"
+	"github.com/zeedexio/zeedex-bsc-sdk-backend/utils"
 )
 
 func HexToAddress(s string) Address { return BytesToAddress(utils.Hex2Bytes(s)) }

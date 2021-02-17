@@ -3,8 +3,8 @@ package engine
 import (
 	"context"
 	"fmt"
-	"github.com/zeedexio/zeedex-sdk-backend/common"
-	"github.com/zeedexio/zeedex-sdk-backend/utils"
+	"github.com/zeedexio/zeedex-bsc-sdk-backend/common"
+	"github.com/zeedexio/zeedex-bsc-sdk-backend/utils"
 	"github.com/labstack/gommon/log"
 	"github.com/shopspring/decimal"
 )

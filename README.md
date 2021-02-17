@@ -1,7 +1,7 @@
 # Zeedex SDK Backend
 
 [![CircleCI](https://circleci.com/gh/Zeedexio/zeedex-sdk-backend.svg?style=svg)](https://circleci.com/gh/Zeedexio/zeedex-sdk-backend)
-[![Go Report Card](https://goreportcard.com/badge/github.com/zeedexio/zeedex-sdk-backend)](https://goreportcard.com/report/github.com/zeedexio/zeedex-sdk-backend)
+[![Go Report Card](https://goreportcard.com/badge/github.com/zeedexio/zeedex-bsc-sdk-backend)](https://goreportcard.com/report/github.com/zeedexio/zeedex-bsc-sdk-backend)
 
 The Zeedex SDK is a collection of golang language packages.
 You can use it to build a Dapp application backend based on the Zeedex contract quickly. 

@@ -1,8 +1,8 @@
 package websocket
 
 import (
-	"github.com/zeedexio/zeedex-sdk-backend/common"
-	"github.com/zeedexio/zeedex-sdk-backend/utils"
+	"github.com/zeedexio/zeedex-bsc-sdk-backend/common"
+	"github.com/zeedexio/zeedex-bsc-sdk-backend/utils"
 	"strings"
 	"sync"
 )

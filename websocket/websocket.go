@@ -2,7 +2,7 @@ package websocket
 
 import (
 	"context"
-	"github.com/zeedexio/zeedex-sdk-backend/common"
+	"github.com/zeedexio/zeedex-bsc-sdk-backend/common"
 )
 
 var channelCreators = make(map[string]func(channelID string) IChannel)

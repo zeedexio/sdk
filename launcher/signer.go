@@ -3,10 +3,10 @@ package launcher
 import (
 	"crypto/ecdsa"
 	"database/sql"
-	"github.com/zeedexio/zeedex-sdk-backend/sdk/crypto"
-	"github.com/zeedexio/zeedex-sdk-backend/sdk/signer"
-	"github.com/zeedexio/zeedex-sdk-backend/sdk/types"
-	"github.com/zeedexio/zeedex-sdk-backend/utils"
+	"github.com/zeedexio/zeedex-bsc-sdk-backend/sdk/crypto"
+	"github.com/zeedexio/zeedex-bsc-sdk-backend/sdk/signer"
+	"github.com/zeedexio/zeedex-bsc-sdk-backend/sdk/types"
+	"github.com/zeedexio/zeedex-bsc-sdk-backend/utils"
 	"sync"
 )
 

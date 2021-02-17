@@ -5,7 +5,7 @@ import (
 	"crypto/elliptic"
 	"errors"
 	"fmt"
-	"github.com/zeedexio/zeedex-sdk-backend/utils"
+	"github.com/zeedexio/zeedex-bsc-sdk-backend/utils"
 	"github.com/btcsuite/btcd/btcec"
 	"golang.org/x/crypto/sha3"
 	"math/big"

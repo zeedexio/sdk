@@ -3,7 +3,7 @@ package websocket
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/zeedexio/zeedex-sdk-backend/common"
+	"github.com/zeedexio/zeedex-bsc-sdk-backend/common"
 	"io/ioutil"
 	"net/http"
 )

@@ -2,7 +2,7 @@ package common
 
 import (
 	"fmt"
-	"github.com/zeedexio/zeedex-sdk-backend/utils"
+	"github.com/zeedexio/zeedex-bsc-sdk-backend/utils"
 	"github.com/cevaris/ordered_map"
 	"github.com/labstack/gommon/log"
 	"github.com/petar/GoLLRB/llrb"

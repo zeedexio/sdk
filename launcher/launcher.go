@@ -2,9 +2,9 @@ package launcher
 
 import (
 	"context"
-	"github.com/zeedexio/zeedex-sdk-backend/common"
-	"github.com/zeedexio/zeedex-sdk-backend/sdk"
-	"github.com/zeedexio/zeedex-sdk-backend/utils"
+	"github.com/zeedexio/zeedex-bsc-sdk-backend/common"
+	"github.com/zeedexio/zeedex-bsc-sdk-backend/sdk"
+	"github.com/zeedexio/zeedex-bsc-sdk-backend/utils"
 	"github.com/shopspring/decimal"
 )
 

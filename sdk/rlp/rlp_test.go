@@ -1,7 +1,7 @@
 package rlp
 
 import (
-	"github.com/zeedexio/zeedex-sdk-backend/utils"
+	"github.com/zeedexio/zeedex-bsc-sdk-backend/utils"
 	"github.com/stretchr/testify/suite"
 	"testing"
 )
